@@ -1,0 +1,7 @@
+Node Website Colors:
+  Icons:
+    #888888 - Default - Grey
+
+
+IDEA:
+  Tumblr logo changy thing for node logo
